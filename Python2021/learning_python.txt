@@ -1,0 +1,3 @@
+In Python you can open files depending on their location.
+In Python you can open files using different methods. 
+In Python you can open files line by line. 
